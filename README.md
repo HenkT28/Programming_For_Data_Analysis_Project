@@ -1,7 +1,6 @@
 # Programming For Data Analysis Project repository
 
-This document contains the instructions for Project 2019 for Programming for Data
-Analysis.
+This document contains the instructions for Project 2019 for Programming for Data Analysis.
 
 To access the repository, please go through below instructions:
 
@@ -43,7 +42,7 @@ Note that this project is about simulation – you must synthesise a data set. S
 
 ## Installing Cmder, VS Code and Ananconda (which includes NumPy, Jupyter)
 
-To answer these four tasks, I installed and used a number of different software packages:
+To answer these four questions, I installed and used a number of different software packages:
 
 * Anaconda Distribution
 
@@ -131,4 +130,4 @@ I'll be using Jupyter Notebook not Jupyter Lab in this assignment (see below the
 
 Once I've navigated to the correct working directory on my local machine, through Cmder, i.e. Programming_For_Data_Analysis_Project, I start Jupyter by running "jupyter notebook" command.
 
-The jupyter notebook is called Programming_Project.ipynb, and contains the body of my work.
+The jupyter notebook is called Programming_For_Data_Analysis_Project.ipynb, and contains the body of my work.
