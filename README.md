@@ -102,6 +102,16 @@ Matplotlib is a python 2D plotting library which produces publication quality fi
 
 SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering. [12]
 
+* Scikit-learn [93]
+
+    Simple and efficient tools for predictive data analysis.
+
+    Accessible to everybody, and reusable in various contexts.
+
+    Built on NumPy, SciPy, and matplotlib.
+
+    Open source, commercially usable - BSD license.
+
 * Cmder
 
 Cmder is a software package which provides a nice command line interface on Windows [8].
